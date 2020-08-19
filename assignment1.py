@@ -6,6 +6,9 @@ def subtraction(a,b):
 
 def multiplication(a,b):
 	return a*b
+
+def division(a,b):
+	return (float(a)/b)
 if __name__ == "__main__":
 	a = 3
 	b = 5
